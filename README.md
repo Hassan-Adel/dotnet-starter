@@ -1,1 +1,1 @@
-![Check formatting standards](https://github.com/Hassan-Adel/dotnet-starter/actions/workflows/stylecheck.yml/baadge.svg)
+![Check formatting standards](https://github.com/Hassan-Adel/dotnet-starter/actions/workflows/stylecheck.yml/badge.svg)
